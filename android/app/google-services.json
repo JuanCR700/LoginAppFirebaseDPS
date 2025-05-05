@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "400165564984",
+    "project_id": "pruebadps-97a4d",
+    "storage_bucket": "pruebadps-97a4d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400165564984:android:53245ecc3126fc5ce26ccd",
+        "android_client_info": {
+          "package_name": "com.miapp.pruebadps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvoJgNmKlgqvwXyv19gJ2zWc3hzG0KvxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
